@@ -893,6 +893,9 @@ section {
   font-size: 15px;
   color: #848484;
   margin-left: 60px;
+  border: 1px solid #ddd;
+  padding: 20px; /* Sesuaikan sesuai kebutuhan Anda */
+  margin: 10px; 
 }
 
 .features .image {
